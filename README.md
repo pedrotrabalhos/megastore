@@ -3,8 +3,6 @@
 Trabalho final da disciplina **Data Structure Strategy and Implementation** (UniFECAF).
 Autor: **Pedro Henrique Gadelha do Nascimento**.
 
-**Vídeo pitch:** _link a adicionar_
-
 ## Objetivo
 
 A MegaStore recomenda só os mais vendidos ou produtos da mesma categoria. O ConectaStore modela clientes, produtos e categorias como um **grafo** e percorre as conexões de compra para recomendar o que clientes com comportamento parecido compraram. O sistema recomenda a partir de um **cliente** ("recomendado para você") ou de um **produto** ("quem comprou também comprou").
